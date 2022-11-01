@@ -43,8 +43,8 @@ body{
 .left-part .photo-container img{
     width: 100%;
     height: 100%;
-    border-radius: 50%;
-    border: 1rem solid white;
+    border-radius: 5px;
+    border: 0.5rem solid white;
     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 }
 
@@ -53,7 +53,7 @@ body{
     font-size: 1.4rem;
     text-transform: uppercase;
     padding: 0.6rem;
-    background-color: #444440;
+    background-color: #000000;
     color: white;
     text-align: center;
     margin: 1.4rem 0;
